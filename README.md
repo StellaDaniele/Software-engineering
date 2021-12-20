@@ -1,4 +1,4 @@
-## Software engineering group project
+# Software engineering group project
 
 | Members                           | Mail                                 |
 | --------------------------------- | ------------------------------------ |
