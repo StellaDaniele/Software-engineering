@@ -21,3 +21,5 @@ The D5 is not all in this repository, we had to create a repository for the API 
 |                                   |      |      |      |      |      |TOTAL|  208 |
 
 The table above contains the data from the log, so it isn't 100% accurate since David and Alessio sometimes forgot to compile it. In any case, it somewhat gives an idea of the general distribution.
+
+Alessio wrote all the documents but the D4 in LaTeX, starting from a shared Google Docs file in which everybody wrote their part. David wrote the D4 in LaTeX.
